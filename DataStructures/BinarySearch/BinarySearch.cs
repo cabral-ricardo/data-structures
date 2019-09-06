@@ -3,11 +3,11 @@
     public class BinarySearch
     {
         // Returns index of x if it is present in arr[l..r], else return -1 
-        public int Search(int[] arrayOrigin, int position, int index, int valueResearch)
+        public int Search(int[] arrayOrigin, int position, int size, int valueResearch)
         {
-            if (index >= position)
+            if (size >= position)
             {
-                int middle = position + (index - position) / 2;
+                int middle = position + (size - position) / 2;
 
                 // If the element is present at the middle itself 
                 if (arrayOrigin[middle] == valueResearch)
@@ -18,7 +18,7 @@
                     return Search(arrayOrigin, position, middle - 1, valueResearch);
 
                 // Else the element can only be present in right subarray 
-                return Search(arrayOrigin, middle + 1, index, valueResearch);
+                return Search(arrayOrigin, middle + 1, size, valueResearch);
             }
 
             // We reach here when element is not present 
