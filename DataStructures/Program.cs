@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataStructures.HashTable;
+using System;
 using System.Linq;
 
 namespace DataStructures
@@ -51,6 +52,11 @@ namespace DataStructures
             Console.WriteLine("-------------------------");
             Console.WriteLine("----------Set-------");
             Set();
+            Console.WriteLine("");
+
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("----------Hash Table-------");
+            HashTable();
             Console.WriteLine("");
         }
 
@@ -155,6 +161,13 @@ namespace DataStructures
         private static void Set()
         {
             SetTest.PrintActions();
+        }
+        #endregion
+
+        #region HashTable
+        private static void HashTable()
+        {
+            HashTableTest.PrintActions();
         }
         #endregion
     }

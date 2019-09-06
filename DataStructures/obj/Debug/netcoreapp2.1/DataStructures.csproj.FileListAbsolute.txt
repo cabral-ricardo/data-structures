@@ -3,9 +3,9 @@ C:\Repository\data-structures\DataStructures\bin\Debug\netcoreapp2.1\DataStructu
 C:\Repository\data-structures\DataStructures\bin\Debug\netcoreapp2.1\DataStructures.runtimeconfig.dev.json
 C:\Repository\data-structures\DataStructures\bin\Debug\netcoreapp2.1\DataStructures.dll
 C:\Repository\data-structures\DataStructures\bin\Debug\netcoreapp2.1\DataStructures.pdb
-C:\Repository\data-structures\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.csprojAssemblyReference.cache
 C:\Repository\data-structures\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.csproj.CoreCompileInputs.cache
 C:\Repository\data-structures\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.AssemblyInfoInputs.cache
 C:\Repository\data-structures\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.AssemblyInfo.cs
 C:\Repository\data-structures\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.dll
 C:\Repository\data-structures\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.pdb
+C:\Repository\data-structures\DataStructures\obj\Debug\netcoreapp2.1\DataStructures.csprojAssemblyReference.cache
